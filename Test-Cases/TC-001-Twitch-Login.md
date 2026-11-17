@@ -2,8 +2,6 @@
 
 **Short Summary:** Verify successful login to Twitch with valid credentials
 
-**Test Case ID:** TC-001
-
 **Module:** Login
 
 **Environment:** Google Chrome, Windows 11
