@@ -4,11 +4,16 @@ My QA portfolio with practical software testing exercises and projects.
 
 ## Contents
 
-- Test Cases
-- Checklists
-- Bug Reports
-- SQL
-- Postman
+- [Test Cases](Test-Cases/)
+- [Checklists](Checklists/)
+- [Bug Reports](Bug-Reports/)
+- [SQL](SQL/)
+- [Postman](Postman/)
+
+### Test Cases
+
+- [TC-001 — Successful Login](Test-Cases/TC-001-Twitch-Login.md)
+- [TC-002 — Invalid Password](Test-Cases/TC-002-Twitch-Invalid-Password.md)
 
 ## About
 
