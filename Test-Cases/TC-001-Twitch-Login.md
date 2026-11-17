@@ -1,6 +1,6 @@
 # Test Case TC-001
 
-## Verify successful login to Twitch with valid credentials
+**Short Summary:** Verify successful login to Twitch with valid credentials
 
 **Test Case ID:** TC-001
 
