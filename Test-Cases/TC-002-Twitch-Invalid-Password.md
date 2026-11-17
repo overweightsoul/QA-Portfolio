@@ -1,26 +1,25 @@
-# QA Portfolio
+# Test Case TC-002
 
-My QA portfolio with practical software testing exercises and projects.
+**Short Summary:** Verify login with an invalid password.
 
-## Contents
+**Environment:** Google Chrome, Windows 11.
 
-- Test Cases
-- Checklists
-- Bug Reports
-- SQL
-- Postman
+**Preconditions:**
+- User has a registered Twitch account.
+- User is not logged in.
 
-## About
+**Steps:**
+1. Open the Twitch login page.
+2. Enter a valid username or email.
+3. Enter an incorrect password.
+4. Click the **Log In** button.
 
-This repository contains my practical exercises and projects
-as I learn software testing and develop my QA skills.
+**Expected Result:**
 
-## Tools
+User is not logged in. An error message is displayed indicating that the login credentials are incorrect.
 
-- Jira
-- Postman
-- Chrome DevTools
-- SQL
-- Git
-- GitHub
+**Actual Result:**
 
+Not executed yet.
+
+**Status:** Not Executed
