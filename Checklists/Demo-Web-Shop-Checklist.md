@@ -37,6 +37,26 @@
 - [ ] Verify that the search field is displayed on the website.
 - [ ] Verify that search returns a matching product when a valid product name is entered.
 - [ ] Verify that the product name and price are displayed in the search results.
+- [ ] Verify that an appropriate message is displayed when no products match the search keyword.
+- [ ] Verify that the message "No products were found that matched your criteria." is displayed when searching for a non-existent product.
+- [ ] Verify that the Advanced search section can be expanded.
+- [ ] Verify that the Category dropdown is displayed in Advanced search.
+- [ ] Verify that the Category dropdown contains available categories and subcategories.
+- [ ] Verify that the Automatically search sub categories checkbox is displayed and can be selected.
+- [ ] Verify that the Manufacturer dropdown is displayed in Advanced search.
+- [ ] Verify that the Manufacturer dropdown contains the All and Tricentis options.
+- [ ] Verify that the Manufacturer filter can be selected.
+- [ ] Verify that searching for "Laptop" with Manufacturer set to "Tricentis" displays the no-results message.
+- [ ] Verify that the Price range fields (From and To) are displayed.
+- [ ] Verify that products within the specified price range are displayed in search results.
+- [ ] Verify that the 14.1-inch Laptop priced at 1590.00 is displayed when the price range is set from 1000 to 2000.
+- [ ] Verify that products priced below the specified minimum price are excluded from search results.
+- [ ] Verify that products priced above the specified maximum price are excluded from search results.
+- [ ] Verify that the Search In product descriptions checkbox can be selected.
+- [ ] Verify that enabling Search In product descriptions returns additional products matching the keyword in their descriptions.
+- [ ] Verify that disabling Search In product descriptions excludes products that match the keyword only in their descriptions.
+- [ ] Verify that search does not proceed when the search keyword contains fewer than 3 characters.
+- [ ] Verify that the message "Search term minimum length is 3 characters" is displayed for a search term shorter than 3 characters.
 ## 4. Product
 ## 5. Shopping Cart
 ## 6. Checkout
