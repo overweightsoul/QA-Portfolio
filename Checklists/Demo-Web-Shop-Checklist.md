@@ -1,6 +1,6 @@
 # Demo Web Shop — Test Checklist
 
-### 1. Registration
+## 1. Registration
 - [ ] Verify that the Registration page displays all required fields: First name, Last name, Email, Password and Confirm password.
 - [ ] Verify that the Gender field is optional.
 ## 2. Login / Logout
