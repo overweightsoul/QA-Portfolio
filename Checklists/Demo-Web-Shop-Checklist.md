@@ -34,6 +34,9 @@
 - [ ] Verify that a user can successfully log out.
 - [ ] Verify that the Log in link is displayed after logout.
 ## 3. Search
+- [ ] Verify that the search field is displayed on the website.
+- [ ] Verify that search returns a matching product when a valid product name is entered.
+- [ ] Verify that the product name and price are displayed in the search results.
 ## 4. Product
 ## 5. Shopping Cart
 ## 6. Checkout
