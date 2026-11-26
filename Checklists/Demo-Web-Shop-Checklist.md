@@ -181,7 +181,6 @@
 - [ ] Verify that the ordered product name is displayed.
 - [ ] Verify that the product price and quantity are displayed correctly.
 - [ ] Verify that the Sub-Total, Shipping, Tax, and Order Total are displayed correctly.
-
 ### Order History
 - [x] Verify that a successfully placed order is displayed in My Account → Orders.
 - [x] Verify that the order number, order status, order date, and order total are displayed correctly.
