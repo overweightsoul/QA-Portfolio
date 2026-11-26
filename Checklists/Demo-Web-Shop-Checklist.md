@@ -7,6 +7,8 @@
 - [ ] Verify that the Password field masks the entered characters.
 - [ ] Verify that the Confirm password field masks the entered characters.
 - [ ] Verify that the password requirement is displayed: at least 6 characters.
+- [ ] Verify that registration accepts a password containing exactly 6 characters.
+- [ ] Verify that registration is completed successfully when all required fields contain valid data.
 ## 2. Login / Logout
 ## 3. Search
 ## 4. Product
