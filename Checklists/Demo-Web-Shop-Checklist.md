@@ -4,6 +4,7 @@
 - [ ] Verify that the Registration page displays all required fields: First name, Last name, Email, Password and Confirm password.
 - [ ] Verify that the Gender field is optional.
 - [ ] Verify that the Register button is displayed below the registration form.
+- [ ] Verify that the Password field masks the entered characters.
 ## 2. Login / Logout
 ## 3. Search
 ## 4. Product
