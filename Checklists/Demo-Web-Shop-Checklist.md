@@ -9,6 +9,8 @@
 - [ ] Verify that the password requirement is displayed: at least 6 characters.
 - [ ] Verify that registration accepts a password containing exactly 6 characters.
 - [ ] Verify that registration is completed successfully when all required fields contain valid data.
+- [ ] Verify that registration is blocked when Password and Confirm password do not match.
+- [ ] Verify that the error message "The password and confirmation password do not match." is displayed when passwords differ.
 ## 2. Login / Logout
 ## 3. Search
 ## 4. Product
