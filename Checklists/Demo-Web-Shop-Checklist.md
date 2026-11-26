@@ -18,6 +18,9 @@
 - [ ] Verify that registration is blocked when all required fields are empty.
 - [ ] Verify that the required-field validation messages are displayed for First name, Last name, Email, Password and Confirm password.
 ## 2. Login / Logout
+- [ ] Verify that the Login page displays the Email and Password fields.
+- [ ] Verify that the Log in button is displayed below the login fields.
+- [ ] Verify that the Remember me checkbox can be selected and deselected.
 ## 3. Search
 ## 4. Product
 ## 5. Shopping Cart
