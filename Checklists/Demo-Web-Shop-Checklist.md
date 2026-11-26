@@ -71,7 +71,6 @@
 - [ ] Verify that product specifications are displayed correctly.
 - [ ] Verify that product tags are displayed.
 - [ ] Verify that related products are displayed in the Customers who bought this item also bought section.
-
 **Product Quantity and Add to Cart**
 - [ ] Verify that the Qty field allows the user to enter a product quantity.
 - [ ] Verify that clicking Add to cart adds the selected product quantity to the Shopping Cart.
@@ -83,7 +82,6 @@
 - [ ] Verify that adding a product with a negative quantity displays the validation message: `Quantity should be positive`.
 - [ ] Verify that entering a fractional quantity (1.5) displays the validation message: `Quantity should be positive`.
 - [ ] Verify that adding a product with a valid quantity (1) succeeds.
-
 **Product Reviews**
 - [ ] Verify that clicking Add your review opens the product review page.
 - [ ] Verify that the product review form contains the Review title field.
@@ -98,8 +96,88 @@
 - [ ] Verify that the review displays the Was this review helpful? Yes/No options.
 - [ ] Verify that clicking Yes in the review helpfulness section updates the helpfulness counter.
 - [ ] Verify that clicking the Reviews link opens the product reviews page.
-
 **Related Products**
 - [ ] Verify that clicking a related product opens its Product Details page.
 ## 5. Shopping Cart
+### Cart Contents
+- [ ] Verify that the Shopping Cart displays the cart items in a table.
+- [ ] Verify that the cart table contains the Remove, Product(s), Price, Qty., and Total columns.
+- [ ] Verify that the product image and name are displayed in the Shopping Cart.
+- [ ] Verify that the product price is displayed correctly.
+- [ ] Verify that the product quantity is displayed.
+- [ ] Verify that the product total is calculated correctly.
+- [ ] Verify that the Sub-Total, Shipping, Tax, and Total amounts are displayed.
+- [ ] Verify that the Terms of Service checkbox is displayed.
+- [ ] Verify that the Checkout button is displayed.
+### Quantity and Remove
+- [ ] Verify that changing the product quantity and clicking Update shopping cart updates the product total.
+- [ ] Verify that the Shopping Cart recalculates the Sub-Total and Total after the quantity is updated.
+- [ ] Verify that selecting Remove and clicking Update shopping cart removes the product from the cart.
+- [ ] Verify that the empty Shopping Cart displays the message: `Your Shopping Cart is empty!`
+### Discount Code
+- [ ] Verify that the Discount Code section is displayed.
+- [ ] Verify that applying an invalid discount coupon displays the message: `The coupon code you entered couldn't be applied to your order`.
+### Gift Cards
+- [ ] Verify that the Gift Cards section is displayed.
+- [ ] Verify that the Gift Cards section contains the Add gift card button.
+- [ ] Check whether clicking Add gift card with an empty field displays the coupon error message: `The coupon code you entered couldn't be applied to your order`.
+- [ ] Check whether entering an invalid gift card code displays the same coupon error message.
+### Estimate Shipping
+- [ ] Verify that the Estimate shipping section is displayed.
+- [ ] Verify that the country selection field is displayed.
+- [ ] Verify that the State / province field is displayed.
+- [ ] Verify that the Zip / postal code field is displayed.
+- [ ] Verify that selecting Germany displays the available shipping methods.
+- [ ] Verify that the following shipping methods are displayed: Ground, Next Day Air, 2nd Day Air, and In-Store Pickup.
+- [ ] Verify that the shipping cost is displayed for each available shipping method.
 ## 6. Checkout
+### Payment Method
+- [ ] Verify that the Payment Method page displays the available payment methods.
+- [ ] Verify that Cash On Delivery (COD) is displayed with a fee of 7.00.
+- [ ] Verify that Check / Money Order is displayed with a fee of 5.00.
+- [ ] Verify that Credit Card is displayed as a payment method.
+- [ ] Verify that Purchase Order is displayed as a payment method.
+- [ ] Verify that the Back link returns the user to the previous checkout step.
+### Payment Information
+- [ ] Verify that the Payment Information page is displayed after selecting Credit Card.
+- [ ] Verify that the Select credit card field displays Visa, MasterCard, Discover, and Amex.
+- [ ] Verify that the Cardholder name field is displayed.
+- [ ] Verify that the Card number field is displayed.
+- [ ] Verify that the Expiration date fields are displayed.
+- [ ] Verify that the Card code field is displayed.
+- [ ] Verify that the Back link is displayed.
+- [ ] Verify that the Continue button is displayed.
+- [ ] Verify that submitting the empty Payment Information form displays the validation message: `Enter cardholder name`.
+- [ ] Verify that submitting the empty Payment Information form displays the validation message: `Wrong card number`.
+- [ ] Verify that submitting the empty Payment Information form displays the validation message: `Wrong card code`.
+- [ ] Verify that entering a Cardholder name removes the `Enter cardholder name` validation message.
+- [ ] Verify that entering a valid test card number removes the `Wrong card number` validation message.
+### Confirm Order
+- [ ] Verify that the Confirm Order page displays the Billing Address.
+- [ ] Verify that the Confirm Order page displays the Payment Method.
+- [ ] Verify that the Confirm Order page displays the Shipping Address.
+- [ ] Verify that the Confirm Order page displays the Shipping Method.
+- [ ] Verify that the order summary displays the product name, price, quantity, and total.
+- [ ] Verify that the Sub-Total is displayed correctly.
+- [ ] Verify that the Shipping cost is displayed correctly.
+- [ ] Verify that the Tax amount is displayed correctly.
+- [ ] Verify that the final Total is calculated correctly.
+- [ ] Verify that the Back link is displayed.
+- [ ] Verify that the Confirm button is displayed.
+### Order Confirmation
+- [ ] Verify that clicking Confirm successfully processes the order.
+- [ ] Verify that the order confirmation page displays the message: `Your order has been successfully processed!`
+- [ ] Verify that a unique order number is displayed after successful checkout.
+- [ ] Verify that the Click here for order details link is displayed.
+### Order Details
+- [ ] Verify that the Order Details page displays the correct order number.
+- [ ] Verify that the order date is displayed.
+- [ ] Verify that the order status is displayed.
+- [ ] Verify that the order total is displayed.
+- [ ] Verify that the Billing Address is displayed.
+- [ ] Verify that the Payment Method is displayed.
+- [ ] Verify that the Shipping Address is displayed.
+- [ ] Verify that the Shipping Method is displayed.
+- [ ] Verify that the ordered product name is displayed.
+- [ ] Verify that the product price and quantity are displayed correctly.
+- [ ] Verify that the Sub-Total, Shipping, Tax, and Order Total are displayed correctly.
