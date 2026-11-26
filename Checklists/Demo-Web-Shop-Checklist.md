@@ -21,6 +21,18 @@
 - [ ] Verify that the Login page displays the Email and Password fields.
 - [ ] Verify that the Log in button is displayed below the login fields.
 - [ ] Verify that the Remember me checkbox can be selected and deselected.
+- [ ] Verify that the Forgot password link redirects to the Password recovery page.
+- [ ] Verify that the Password recovery page displays the required Your email address field.
+- [ ] Verify that the Recover button is displayed on the Password recovery page.
+- [ ] Verify that a user can successfully log in with valid credentials.
+- [ ] Verify that login is blocked when an invalid password is entered.
+- [ ] Verify that the appropriate error messages are displayed when invalid credentials are entered.
+- [ ] Verify that login is blocked when the Email and Password fields are empty.
+- [ ] Verify that login is blocked when the Password field is empty and a registered email address is entered.
+- [ ] Verify that login is blocked when the Email field is empty and a password is entered.
+- [ ] Verify that the appropriate error messages are displayed for empty login fields.
+- [ ] Verify that a user can successfully log out.
+- [ ] Verify that the Log in link is displayed after logout.
 ## 3. Search
 ## 4. Product
 ## 5. Shopping Cart
