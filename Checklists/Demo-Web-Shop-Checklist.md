@@ -58,5 +58,17 @@
 - [ ] Verify that search does not proceed when the search keyword contains fewer than 3 characters.
 - [ ] Verify that the message "Search term minimum length is 3 characters" is displayed for a search term shorter than 3 characters.
 ## 4. Product
+- [ ] Verify that the Product Details page displays the correct product name.
+- [ ] Verify that the product price is displayed.
+- [ ] Verify that product availability is displayed.
+- [ ] Verify that the product description is displayed.
+- [ ] Verify that the product image is displayed.
+- [ ] Verify that the number of customer reviews is displayed.
+- [ ] Verify that the Add your review link is displayed.
+- [ ] Verify that the Qty field is displayed.
+- [ ] Verify that the Products specifications section is displayed.
+- [ ] Verify that product specifications are displayed.
+- [ ] Verify that Product tags are displayed.
+- [ ] Verify that related products are displayed in the Customers who bought this item also bought section.
 ## 5. Shopping Cart
 ## 6. Checkout
