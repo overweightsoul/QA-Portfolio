@@ -6,6 +6,7 @@
 - [ ] Verify that the Register button is displayed below the registration form.
 - [ ] Verify that the Password field masks the entered characters.
 - [ ] Verify that the Confirm password field masks the entered characters.
+- [ ] Verify that the password requirement is displayed: at least 6 characters.
 ## 2. Login / Logout
 ## 3. Search
 ## 4. Product
