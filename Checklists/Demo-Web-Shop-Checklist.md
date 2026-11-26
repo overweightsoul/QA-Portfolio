@@ -58,6 +58,7 @@
 - [ ] Verify that search does not proceed when the search keyword contains fewer than 3 characters.
 - [ ] Verify that the message "Search term minimum length is 3 characters" is displayed for a search term shorter than 3 characters.
 ## 4. Product
+**Product Details**
 - [ ] Verify that the Product Details page displays the correct product name.
 - [ ] Verify that the product price is displayed.
 - [ ] Verify that product availability is displayed.
@@ -66,9 +67,39 @@
 - [ ] Verify that the number of customer reviews is displayed.
 - [ ] Verify that the Add your review link is displayed.
 - [ ] Verify that the Qty field is displayed.
-- [ ] Verify that the Products specifications section is displayed.
-- [ ] Verify that product specifications are displayed.
-- [ ] Verify that Product tags are displayed.
+- [ ] Verify that the product specifications section is displayed.
+- [ ] Verify that product specifications are displayed correctly.
+- [ ] Verify that product tags are displayed.
 - [ ] Verify that related products are displayed in the Customers who bought this item also bought section.
+
+**Product Quantity and Add to Cart**
+- [ ] Verify that the Qty field allows the user to enter a product quantity.
+- [ ] Verify that clicking Add to cart adds the selected product quantity to the Shopping Cart.
+- [ ] Verify that the Shopping Cart displays the selected product quantity correctly.
+- [ ] Verify that updating the product quantity in the Shopping Cart recalculates the total price correctly.
+- [ ] Verify that a product can be removed from the Shopping Cart.
+- [ ] Verify that the Shopping Cart displays an empty-cart message after all products are removed.
+- [ ] Verify that adding a product with quantity 0 displays the validation message: `Quantity should be positive`.
+- [ ] Verify that adding a product with a negative quantity displays the validation message: `Quantity should be positive`.
+- [ ] Verify that entering a fractional quantity (1.5) displays the validation message: `Quantity should be positive`.
+- [ ] Verify that adding a product with a valid quantity (1) succeeds.
+
+**Product Reviews**
+- [ ] Verify that clicking Add your review opens the product review page.
+- [ ] Verify that the product review form contains the Review title field.
+- [ ] Verify that the product review form contains the Review text field.
+- [ ] Verify that the product review form contains the Submit review button.
+- [ ] Verify that submitting the review form with empty fields displays the required-field validation messages.
+- [ ] Verify that submitting the review form with a Review title but an empty Review text displays `Review text is required.`
+- [ ] Verify that submitting the review form with an empty Review title and a filled Review text displays `Review title is required.`
+- [ ] Verify that submitting a review with valid data displays the success message: `Product review is successfully added.`
+- [ ] Verify that a successfully submitted product review is displayed on the product page.
+- [ ] Verify that the displayed review contains the review title, review text, author, and submission date.
+- [ ] Verify that the review displays the Was this review helpful? Yes/No options.
+- [ ] Verify that clicking Yes in the review helpfulness section updates the helpfulness counter.
+- [ ] Verify that clicking the Reviews link opens the product reviews page.
+
+**Related Products**
+- [ ] Verify that clicking a related product opens its Product Details page.
 ## 5. Shopping Cart
 ## 6. Checkout
