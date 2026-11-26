@@ -13,6 +13,8 @@
 - [ ] Verify that the error message "The password and confirmation password do not match." is displayed when passwords differ.
 - [ ] Verify that registration is blocked when an invalid email address is entered.
 - [ ] Verify that the error message "Wrong email" is displayed for an invalid email address.
+- [ ] Verify that registration is blocked when an already registered email address is entered.
+- [ ] Verify that the error message "The specified email already exists" is displayed for an already registered email address.
 ## 2. Login / Logout
 ## 3. Search
 ## 4. Product
