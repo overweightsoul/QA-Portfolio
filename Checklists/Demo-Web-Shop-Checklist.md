@@ -5,6 +5,7 @@
 - [ ] Verify that the Gender field is optional.
 - [ ] Verify that the Register button is displayed below the registration form.
 - [ ] Verify that the Password field masks the entered characters.
+- [ ] Verify that the Confirm password field masks the entered characters.
 ## 2. Login / Logout
 ## 3. Search
 ## 4. Product
