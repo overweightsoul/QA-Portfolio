@@ -12,6 +12,7 @@ Steps:
 2. Enter quantity 1 in the Qty field.
 3. Click Add to cart.
 4. Open the Shopping Cart.
+5. Verify that the product price in the Shopping Cart matches the price displayed on the Product Details page.
 
 Expected Result:
 The 14.1-inch Laptop is added to the Shopping Cart with quantity 1 and the correct price is displayed.
