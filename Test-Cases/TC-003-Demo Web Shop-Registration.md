@@ -1,4 +1,4 @@
-Test Case ID: TC-001
+Test Case ID: TC-003
 
 Short Summary: Verify successful user registration with valid data.
 
