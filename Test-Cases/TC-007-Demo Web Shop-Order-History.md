@@ -1,4 +1,4 @@
-Test Case ID: TC-005
+Test Case ID: TC-007
 
 Short Summary: Verify that a successfully placed order is displayed in Order History.
 
