@@ -63,7 +63,7 @@
 - [x] Verify that the product price is displayed.
 - [x] Verify that product availability is displayed.
 - [x] Verify that the product description is displayed.
-- [ ] Verify that the product image is displayed.
+- [x] Verify that the product image is displayed.
 - [x] Verify that the number of customer reviews is displayed.
 - [x] Verify that the Add your review link is displayed.
 - [x] Verify that the Qty field is displayed.
@@ -137,7 +137,7 @@
 - [x] Verify that Check / Money Order is displayed with a fee of 5.00.
 - [x] Verify that Credit Card is displayed as a payment method.
 - [x] Verify that Purchase Order is displayed as a payment method.
-- [ ] Verify that the Back link returns the user to the previous checkout step.
+- [x] Verify that the Back link returns the user to the previous checkout step.
 ### Payment Information
 - [x] Verify that the Payment Information page is displayed after selecting Credit Card.
 - [x] Verify that the Select credit card field displays Visa, MasterCard, Discover, and Amex.
