@@ -13,10 +13,8 @@ Steps:
 4. Open the Shopping Cart.
 5. Verify that the product price in the Shopping Cart matches the price displayed on the Product Details page.
 
-**Expected Result:** 
-The 14.1-inch Laptop is added to the Shopping Cart with quantity 1 and the correct price is displayed.
+**Expected Result:** The 14.1-inch Laptop is added to the Shopping Cart with quantity 1 and the correct price is displayed.
 
-**Actual Result:** 
-The 14.1-inch Laptop was added to the Shopping Cart with quantity 1 and the price was displayed correctly.
+**Actual Result:** The 14.1-inch Laptop was added to the Shopping Cart with quantity 1 and the price was displayed correctly.
 
 Status: Pass
