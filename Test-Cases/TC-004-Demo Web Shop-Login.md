@@ -1,4 +1,4 @@
-Test Case ID: TC-004
+**Test Case ID:** TC-004
 
 **Short Summary:** Verify successful login with valid credentials.
 
@@ -6,7 +6,7 @@ Test Case ID: TC-004
 
 **Preconditions:** User has a registered account and is not logged in.
 
-Steps:
+**Steps:**
 1. Open the Login page.
 2. Enter a valid email address.
 3. Enter a valid password.
