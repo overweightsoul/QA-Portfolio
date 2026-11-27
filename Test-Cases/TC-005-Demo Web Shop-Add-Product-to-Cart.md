@@ -1,4 +1,4 @@
-Test Case ID: TC-005
+**Test Case ID:** TC-005
 
 **Short Summary:** Verify that a product can be added to the Shopping Cart.
 
@@ -6,7 +6,7 @@ Test Case ID: TC-005
 
 **Preconditions:** User is on the Product Details page of the 14.1-inch Laptop.
 
-Steps:
+**Steps:**
 1. Open the Product Details page of the 14.1-inch Laptop.
 2. Enter quantity 1 in the Qty field.
 3. Click Add to cart.
@@ -17,4 +17,4 @@ Steps:
 
 **Actual Result:** The 14.1-inch Laptop was added to the Shopping Cart with quantity 1 and the price was displayed correctly.
 
-Status: Pass
+**Status:** Pass
