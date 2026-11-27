@@ -20,7 +20,7 @@
 ## 2. Login / Logout
 - [x] Verify that the Login page displays the Email and Password fields.
 - [x] Verify that the Log in button is displayed below the login fields.
-- [ ] Verify that the Remember me checkbox can be selected and deselected.
+- [x] Verify that the Remember me checkbox can be selected and deselected.
 - [x] Verify that the Forgot password link redirects to the Password recovery page.
 - [x] Verify that the Password recovery page displays the required Your email address field.
 - [x] Verify that the Recover button is displayed on the Password recovery page.
