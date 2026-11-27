@@ -1,11 +1,10 @@
 Test Case ID: TC-004
 
-Short Summary: Verify successful login with valid credentials.
+**Short Summary:** Verify successful login with valid credentials.
 
-Environment: Google Chrome, Windows 11
+**Environment:** Google Chrome, Windows 11
 
-Preconditions:
-User has a registered account and is not logged in.
+**Preconditions:** User has a registered account and is not logged in.
 
 Steps:
 1. Open the Login page.
@@ -17,4 +16,4 @@ Steps:
 
 **Actual Result:** User was successfully logged in and redirected to the website's home page. The account was shown as logged in.
 
-Status: Pass
+**Status:** Pass
