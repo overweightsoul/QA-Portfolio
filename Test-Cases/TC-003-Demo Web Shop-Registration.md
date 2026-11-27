@@ -1,13 +1,13 @@
 Test Case ID: TC-003
 
-Short Summary: Verify successful user registration with valid data.
+**Short Summary:** Verify successful user registration with valid data.
 
-Environment: Google Chrome, Windows 11
+**Environment:** Google Chrome, Windows 11
 
-Preconditions:
+**Preconditions:**
 User is not registered and is on the Registration page.
 
-Steps:
+**Steps:**
 1. Open the Registration page.
 2. Enter a valid First name.
 3. Enter a valid Last name.
@@ -16,10 +16,10 @@ Steps:
 6. Enter the same password in Confirm password.
 7. Click Register.
 
-Expected Result:
+**Expected Result:**
 User is successfully registered and the registration confirmation message is displayed.
 
-Actual Result:
+**Actual Result:**
 Registration was successfully completed. The confirmation message "Your registration completed" was displayed.
 
-Status: Pass
+**Status:** Pass
