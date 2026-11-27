@@ -11,6 +11,7 @@ User has successfully placed an order and is logged in.
 1. Open My Account.
 2. Click Orders.
 3. Locate the previously placed order.
+4. Verify that the order number, status, date and total are displayed correctly.
 
 **Expected Result:** The order is displayed with the correct order number, status, date and total.
 
