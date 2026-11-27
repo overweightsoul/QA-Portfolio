@@ -13,10 +13,8 @@ Steps:
 3. Enter a valid password.
 4. Click Log in.
 
-Expected Result:
-User is successfully logged in and redirected to the website.
+**Expected Result:** User is successfully logged in and redirected to the website's home page. The account is shown as logged in.
 
-Actual Result:
-User was successfully logged in.
+**Actual Result:** User was successfully logged in and redirected to the website's home page. The account was shown as logged in.
 
 Status: Pass
