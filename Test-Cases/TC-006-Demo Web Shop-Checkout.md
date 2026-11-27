@@ -1,4 +1,4 @@
-Test Case ID: TC-004
+Test Case ID: TC-006
 
 Short Summary: Verify successful order placement using Credit Card payment.
 
