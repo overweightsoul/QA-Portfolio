@@ -15,9 +15,8 @@
 6. Review the Confirm Order page.
 7. Click Confirm.
 
+**Expected Result:** The order is successfully processed, an order confirmation message is displayed, and an order number is generated.
 
-**Expected Result:** The order is successfully processed, an order confirmation message is displayed, and the order is assigned an order number.
-
-**Actual Result:** The order was successfully processed. The confirmation message "Your order has been successfully processed!" was displayed.
+**Actual Result:** The order was successfully processed. The confirmation message "Your order has been successfully processed!" was displayed, and an order number was generated.
 
 **Status:** Pass
