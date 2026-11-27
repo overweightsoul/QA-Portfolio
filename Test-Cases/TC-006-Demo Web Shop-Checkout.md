@@ -1,4 +1,4 @@
-Test Case ID: TC-006
+**Test Case ID:** TC-006
 
 **Short Summary:** Verify successful order placement using Credit Card payment.
 
@@ -6,7 +6,7 @@ Test Case ID: TC-006
 
 **Preconditions:** User has added the 14.1-inch Laptop to the Shopping Cart.
 
-Steps:
+**Steps:**
 1. Open the Shopping Cart.
 2. Click Checkout.
 3. Select Credit Card as the payment method.
