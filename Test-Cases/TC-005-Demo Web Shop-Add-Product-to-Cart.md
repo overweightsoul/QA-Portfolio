@@ -1,4 +1,4 @@
-Test Case ID: TC-003
+Test Case ID: TC-005
 
 Short Summary: Verify that a product can be added to the Shopping Cart.
 
